@@ -6,9 +6,11 @@
 This Lua script was based on and improved from the Lua dump code shared by Lebta2, and was dumped in-game at runtime using our own PHA Modded clients.
 
 The source of the Lua script is also posted as output by a Lua decompiler improved by zhm86.
+
 https://github.com/zhm86/CoDLuaDecompiler
 
 Also, please see here for credits for PHA Modded clients.
+
 https://github.com/ProjectHiNAtyu/IW8_Fence_Pass
 
 Thank you Lebta2 and zhm86!

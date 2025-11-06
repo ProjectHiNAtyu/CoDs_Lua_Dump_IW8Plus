@@ -4,7 +4,7 @@
 [ Credit ]
 
 - LUA decompiler & LUA relations : zhm86     ( https://github.com/zhm86 )
-- LUA dumper code tips           : Lebta2    
+- LUA dumper code tips           : Lebta2 a.k.a Taleb   
 - LUA dumper code Improvements   : BodNJenie ( https://github.com/bodnjenie14/ )
 
 This Lua script was based on and improved from the Lua dump code shared by Lebta2, and was dumped in-game at runtime using our own PHA Modded clients.

@@ -3,7 +3,13 @@
 
 [ Credit ]
 
+- LUA decompiler & LUA relations : zhm86     ( https://github.com/zhm86 )
+- LUA dumper code tips           : Lebta2    
+- LUA dumper code Improvements   : BodNJenie ( https://github.com/bodnjenie14/ )
+
 This Lua script was based on and improved from the Lua dump code shared by Lebta2, and was dumped in-game at runtime using our own PHA Modded clients.
+
+The Lua dumper code has also been further improved by BodNJenie, making it work better.
 
 The source of the Lua script is also posted as output by a Lua decompiler improved by zhm86.
 
@@ -13,7 +19,25 @@ Also, please see here for credits for PHA Modded clients.
 
 https://github.com/ProjectHiNAtyu/IW8_Fence_Pass
 
-Thank you Lebta2 and zhm86!
+Thank you Lebta2 and zhm86, BodNJenie!
+
+
+----------
+
+
+[ Credit rule ]
+
+Recently, there have been problems with incorrect credit notation and failure to give credit to the rightful owners, so please be sure to observe the following guidelines.
+
+If you use, redistribute, or share the dumps or source files in this repository, or if you adapt this source for any project or code, or even get inspiration from it,
+
+If you have used this repository in any way, please copy and paste all of the above credits onto your GitHub page, release page, or when attaching files or links.
+
+I did not create the dumps in this repository alone.
+
+Omission of credits is disrespectful not only to me but to everyone else.
+
+Please be sure to respect credits!
 
 
 ----------

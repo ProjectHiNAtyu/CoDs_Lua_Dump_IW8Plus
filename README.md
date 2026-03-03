@@ -1,5 +1,9 @@
 # CoDs_Lua_Dump_IW8Plus
 
+# This repository was created for academic research and educational purposes.
+# I do not distribute any software such as Injector that can be used directly in the game.
+# If you wish to use these works, you must create your own software and use it at your own risk.
+
 
 [ Credit ]
 
@@ -13,10 +17,6 @@ The Lua dumper code has also been further improved by BodNJenie, making it work 
 The source of the Lua script is also posted as output by a Lua decompiler improved by zhm86.
 
 https://github.com/zhm86/CoDLuaDecompiler
-
-Also, please see here for credits for PHA Modded clients.
-
-https://github.com/ProjectHiNAtyu/IW8_Fence_Pass
 
 Thank you zhm86, BodNJenie!
 
@@ -51,58 +51,19 @@ The target games are as follows.
 
 - [PC] IW8 / MW19 - Call of Duty : Modern Warfare - Version 1.38 ( CoD16 / CoD2019 / MW2019 / CoD:MW / Odin )
 - [PC] IW8 / MW19 - Call of Duty : Modern Warfare - Version 1.44 ( CoD16 / CoD2019 / MW2019 / CoD:MW / Odin )
-- [PC] IW8 / MW19 - Call of Duty : Modern Warfare - Version 1.57 ( CoD16 / CoD2019 / MW2019 / CoD:MW / Odin )
-- [PC] IW8 / MW19 - Call of Duty : Modern Warfare - Version 1.67 ( CoD16 / CoD2019 / MW2019 / CoD:MW / Odin 
+- [PC] IW8 / MW19 - Call of Duty : Modern Warfare - Version 1.67 BNet ( CoD16 / CoD2019 / MW2019 / CoD:MW / Odin )
+- [PC] IW8 / MW19 - Call of Duty : Modern Warfare - Version 1.67 Steam ( CoD16 / CoD2019 / MW2019 / CoD:MW / Odin )
 - [PC] S4 / CoDV - Call of Duty : Vanguard - Version 1.26 ( CoD18 / CoD2021 / VG / VD / CoD:V / CoDVG / Armada )
-- [PC] IW9 / MWII - Call of Duty : Modern Warfare II - Version Latest ( CoD19 / CoD2022 / MW22 / MW2022 / CoD:MWII / Cortez )
-
-
-----------
-
-
-[ iw8+ Demonware Modded Clients ]
-
-
-The modding community I currently belong to, commonly known as "iw8-bodnjenie", focuses on MW19 and is developing clients for newer CoD games since then that use the Demonware Emulator.
-
-
-With the implementation of DWEmu, CoD can emulate a complete online environment, allowing you to play the online experience of that time.
-
-In addition, the servers are separate from the official CoD servers and use our own DW servers, so there is no risk to your CoD account, allowing you to enjoy multiplayer with your friends with peace of mind.
-
-
-Currently, iw8-bod supports MW2019 versions 1.38 / 1.44 / 1.57 / 1.63 and CoDV. 
-
-We are committed to continuing development so that we can make modded clients for many more versions and game titles playable.
-
-
-iw8-bod is intended as a free release.
-
-We welcome any willing engineers with coding or reverse engineering skills who want to help with client development!
-
-
-If you're interested in DWEmu modded clients for recent Call of Duty games from MW2019 onwards, please join the Discord server below. 
-
-We look forward to seeing you!
-
-
-= - = - = - Discord Server - = - = - =
-
-https://discord.gg/weUkekkMHw
-
-= - = - = - = - = - = - = - = - = - =
+- [PC] IW9 / MWII - Call of Duty : Modern Warfare II - Public Beta ( CoD19 / CoD2022 / MW22 / MW2022 / CoD:MWII / Cortez )
+- [PC] IW9 / MWII - Call of Duty : Modern Warfare II - Version Latest BNet ( CoD19 / CoD2022 / MW22 / MW2022 / CoD:MWII / Cortez )
+- [PC] IW9 / MWII - Call of Duty : Modern Warfare II - Version Latest Steam ( CoD19 / CoD2022 / MW22 / MW2022 / CoD:MWII / Cortez )
+- [PC] JUP / MWIII - Call of Duty : Modern Warfare III - Version Latest Steam ( CoD20 / CoD2023 / MW23 / MW2023 / CoD:MWIII / Jupiter )
 
 
 ----------
 
 
 [ Promotion ]
-
-
-- Discord : hinatapoko
-- Twitter : https://x.com/KonataGIF
-- YouTube : HiNAtyu Studio ( https://www.youtube.com/@hinatyuproject/featured )
-
 
 I’d be very happy if you could follow, subscribe, like, or comment on my various SNS accounts. 
 

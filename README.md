@@ -59,6 +59,14 @@ The target games are as follows.
 - [PC] IW9 / MWII - Call of Duty : Modern Warfare II - Version Latest Steam ( CoD19 / CoD2022 / MW22 / MW2022 / CoD:MWII / Cortez )
 - [PC] JUP / MWIII - Call of Duty : Modern Warfare III - Version Latest Steam ( CoD20 / CoD2023 / MW23 / MW2023 / CoD:MWIII / Jupiter )
 
+----------
+
+[ Contact ]
+ 
+- HiNAtyu
+- YouTube : https://www.youtube.com/@HiNAtyuRoom
+- Twitter : @hinatyu ( https://x.com/hinatyu )
+- Discord : hinatapoko ( https://discordapp.com/users/239453096026046464 )
 
 ----------
 
